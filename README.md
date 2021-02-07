@@ -1,6 +1,5 @@
 1. 下载地址
-
-https://github.com/apache/zookeeper/tree/release-3.6.2
+	https://github.com/apache/zookeeper/tree/release-3.6.2
 
 2. 准备配置文件
 	1. 复制zoo_sample.cfg更名为zoo.cfg,修改dataDir
