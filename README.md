@@ -9,3 +9,4 @@
 3. 启动异常
 	1. 程序包org.apache.zookeeper.data不存在 root项目compile
 	2. NoClassDefFoundError: com/codahale/metrics/Reservoir provided去掉
+	3. 启动入口在org.apache.zookeeper.server.quorum.QuorumPeerMain
