@@ -1,4 +1,5 @@
 1. 下载地址
+
 https://github.com/apache/zookeeper/tree/release-3.6.2
 
 2. 准备配置文件
